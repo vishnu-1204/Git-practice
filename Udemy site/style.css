@@ -1,0 +1,15 @@
+.js-container{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.card{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.card img{
+    width: 200px;
+}
